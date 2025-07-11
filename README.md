@@ -83,29 +83,17 @@ Project consists of a simple honeypot home lab in azure, honeypots act as decoy 
 
 <h2>The Fifth and Final step</h2>
 
-creating a watch list on sentinel with a template <instert [here](https://drive.google.com/file/d/13EfjM_4BohrmaxqXZLB5VUBIz2sv9Siz/view)> on microsoft sentinel this will upload geodata location to the SIEM (sort out the network ip, latitudes, longitudes, city names and the country names)
-Making a new workbook for the visual attack map with a template <insert here> to show  locations of where the attacks were attempted.
-The virtual machine was only online for 24 hours where the attacks on the map image below shows the following
-The yellow areas show where minimum amount of attacks were attempted. The orange areas show where a decent amount of attacks were attempted. The red area shows where most of attacks were attempted. 
+- <b>Creating a Watchlist in Microsoft Sentinel: Set up a new watchlist within Microsoft Sentinel using a template. This watchlist will upload geolocation data (such as network IPs, latitudes, longitudes, city names, and country names) to the SIEM, helping track attack origins and patterns.
+
+- <b>Building a Visual Attack Map Workbook: Create a new workbook in Microsoft Sentinel to visualize the attack locations. Use a template that displays the geographic locations of where attacks were attempted on the virtual machine.</b>
+
+- <b>Mapping Attack Locations: The virtual machine was online for 24 hours, and the attack map shows the following:</b>
+
+Yellow Areas: Represent locations with a minimal number of attacks.
+
+Orange Areas: Indicate regions where a moderate number of attacks were attempted.
+
+Red Area: Highlights the location with the highest concentration of attacks.
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
