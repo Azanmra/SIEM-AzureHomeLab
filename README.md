@@ -52,7 +52,7 @@ Project consists of a simple honeypot home lab in azure, honeypots act as decoy 
 
 <a href='https://postimg.cc/87xFm324' target='_blank'><img src='https://i.postimg.cc/d0V8wcnb/Capture7.png' border='0' alt='Capture7'/></a>
 
-<a href='https://postimg.cc/bGbZCg8h' target='_blank'><img src='https://i.postimg.cc/xdpLdp4c/Capture8.png' border='0' alt='Capture8'/></a><br /><a href='https://gasstation-nearme.com/'>find gas near me</a><br />
+<a href='https://postimg.cc/bGbZCg8h' target='_blank'><img src='https://i.postimg.cc/xdpLdp4c/Capture8.png' border='0' alt='Capture8'/></a>
 
 
 <h2>The Third Step</h2>
@@ -87,6 +87,9 @@ Project consists of a simple honeypot home lab in azure, honeypots act as decoy 
 
 - <b>Building a Visual Attack Map Workbook: Create a new workbook in Microsoft Sentinel to visualize the attack locations. Use a template that displays the geographic locations of where attacks were attempted on the virtual machine.</b>
 
+<img width="1920" height="1033" alt="Capture14" src="https://github.com/user-attachments/assets/d1af6ddd-e57e-4fbc-a92c-42618a1ed4df" />
+
+
 - <b>Mapping Attack Locations: The virtual machine was online for 24 hours, and the attack map shows the following:</b>
 
 Yellow Areas: Represent locations with a minimal number of attacks.
@@ -94,6 +97,10 @@ Yellow Areas: Represent locations with a minimal number of attacks.
 Orange Areas: Indicate regions where a moderate number of attacks were attempted.
 
 Red Area: Highlights the location with the highest concentration of attacks.
+
+
+
+<img width="1540" height="666" alt="Capture15" src="https://github.com/user-attachments/assets/315a8198-e4a2-4367-85f3-f0476ff5f8e7" />
 
 
 
