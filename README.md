@@ -83,9 +83,10 @@ Project consists of a simple honeypot home lab in azure, honeypots act as decoy 
 
 <h2>The Fifth and Final step</h2>
 
-- <b>Creating a Watchlist in Microsoft Sentinel: Set up a new watchlist within Microsoft Sentinel using a template. This watchlist will upload geolocation data (such as network IPs, latitudes, longitudes, city names, and country names) to the SIEM, helping track attack origins and patterns.
+- <b>Creating a Watchlist in Microsoft Sentinel: Set up a new watchlist within Microsoft Sentinel using a template [geo-ip](https://drive.google.com/file/d/13EfjM_4BohrmaxqXZLB5VUBIz2sv9Siz/view)
+. This watchlist will upload geolocation data (such as network IPs, latitudes, longitudes, city names, and country names) to the SIEM, helping track attack origins and patterns.
 
-- <b>Building a Visual Attack Map Workbook: Create a new workbook in Microsoft Sentinel to visualize the attack locations. Use a template that displays the geographic locations of where attacks were attempted on the virtual machine.</b>
+- <b>Building a Visual Attack Map Workbook: Create a new workbook in Microsoft Sentinel to visualize the attack locations. Use a template [map.json](https://drive.google.com/file/d/1ErlVEK5cQjpGyOcu4T02xYy7F31dWuir/view?pli=1) that displays the geographic locations of where attacks were attempted on the virtual machine.</b>
 
 <img width="1920" height="1033" alt="Capture14" src="https://github.com/user-attachments/assets/d1af6ddd-e57e-4fbc-a92c-42618a1ed4df" />
 
